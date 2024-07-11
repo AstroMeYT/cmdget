@@ -1,2 +1,4 @@
 Files available on cmdget:
- - neutron: A way to open .ntn files via your command line.
+ - neutron : A way to open .ntn files via your command line. : neutron <file>
+ - ratecoin : View top crypto coins, or view coin specifics. : ratecoin <-top10 / -coin> <coin short name if -coin>
+
